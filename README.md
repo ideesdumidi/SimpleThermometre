@@ -7,7 +7,7 @@ Ce dernier affiche dans l'ordre:
 * les minimale/maximale
 
 ##Schéma correspondant
-![Alt text](https://rawgit.com/ideesdumidi/SimpleThermometre/master/pictures/DigitalThermometer_bb.svg "Schema")
+![Alt text](https://cdn.jsdelivr.net/gh/ideesdumidi/SimpleThermometre@master/pictures/DigitalThermometer_bb.svg "Schema")
 
 ##Résultat attendu
 ![Alt text](/pictures/capture.jpg?raw=true "Capture")
